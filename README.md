@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eniola-tech
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on pojects
+- 😄 Pronouns: she
